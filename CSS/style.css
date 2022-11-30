@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&display=swap');
+.hello {
+   background-color: rgb(11, 183, 169);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    border-bottom:  groove;
+    border-width: 10px;
+    border-color: hotpink;
+    font-family: Lobster;
+}
+
+.photo{
+    text-align: center;
+    font-size: 20px;
+    font-family: Oswald;
+   
+}
+
+.bio{
+    text-align: justify;
+    font-size: 18px;
+    border-bottom: ridge;
+    border-width: 3px;
+    border-color: hsl(330, 95%, 60%); 
+     
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+   
+    
+    font-family: Lobster;
+}
+
+.rasm2{
+    
+    border-radius: 150px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+   
+}
+td img{
+   
+    
+    margin: 30px;
+}
+
+td{
+    text-align: center;
+    font-family: Oswald;
+   
+}
+
+
+table {
+    margin: auto;
+    
+}
